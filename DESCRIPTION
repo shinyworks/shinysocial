@@ -1,10 +1,9 @@
 Package: shinysocial
 Title: Social Media Modules for 'shiny'
 Version: 0.0.0.9000
-Authors@R: c(
-    person("Jon", "Harmon", , "jonthegeek@gmail.com", role = c("aut", "cre", 
-           "cph"), comment = c(ORCID = "0000-0003-4781-4346"))
-    )
+Authors@R: 
+    person("Jon", "Harmon", , "jonthegeek@gmail.com", role = c("aut", "cre", "cph"),
+           comment = c(ORCID = "0000-0003-4781-4346"))
 Description: Standardized, clean modules for collecting, displaying, and
     using social media information in 'shiny' apps.
 License: MIT + file LICENSE
@@ -12,7 +11,8 @@ URL: https://github.com/r4ds/shinysocial,
     https://r4ds.github.io/shinysocial/
 BugReports: https://github.com/r4ds/shinysocial/issues
 Imports: 
-    shiny
+    shiny,
+    stringr
 Suggests: 
     covr,
     testthat (>= 3.1.6)
