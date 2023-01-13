@@ -12,9 +12,9 @@ For additional reprex pointers, check out the [Get help!](https://www.tidyverse.
 
 ## Where to ask?
 
-Armed with your reprex, the next step is to figure out [where to ask](https://www.tidyverse.org/help/#where-to-ask). 
+Armed with your reprex, the next step is to figure out where to ask. 
 
-*   If it's a question: start with [community.rstudio.com](https://community.rstudio.com/), and/or StackOverflow. There are more people there to answer questions.  
+*   If it's a question: It's best to ask on the [R4DS Online Learning Community Slack](https://r4ds.io/join). Other options include [Posit Community](https://community.rstudio.com/), and StackOverflow. There are more people there to answer questions.
 
 *   If it's a bug: you're in the right place, [file an issue](https://github.com/r4ds/shinysocial/issues/new).  
   
@@ -28,8 +28,6 @@ For example, you'd simply remove `is:open` to search _all_ issues in the repo, o
 
 ## What happens next?
 
-To be as efficient as possible, development of tidyverse packages tends to be very bursty, so you shouldn't worry if you don't get an immediate response.
-Typically we don't look at a repo until a sufficient quantity of issues accumulates, then there’s a burst of intense activity as we focus our efforts. 
-That makes development more efficient because it avoids expensive context switching between problems, at the cost of taking longer to get back to you. 
-This process makes a good reprex particularly important because it might be multiple months between your initial report and when we start working on it. 
+We'll try to look at your issue as soon as we can, but these packages are maintained by volunteers.
+A good reprex is particularly important because it might be weeks or months between your initial report and when we start working on it. 
 If we can’t reproduce the bug, we can’t fix it!

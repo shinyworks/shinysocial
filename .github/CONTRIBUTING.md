@@ -1,8 +1,6 @@
 # Contributing to shinysocial
 
-This outlines how to propose a change to shinysocial. 
-For more detailed info about contributing to this, and other tidyverse packages, please see the
-[**development contributing guide**](https://rstd.io/tidy-contrib). 
+This outlines how to propose a change to shinysocial.
 
 ## Fixing typos
 
