@@ -18,16 +18,19 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 [![CRAN status](https://www.r-pkg.org/badges/version/shinysocial)](https://CRAN.R-project.org/package=shinysocial)
+[![R-CMD-check](https://github.com/r4ds/shinysocial/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/r4ds/shinysocial/actions/workflows/R-CMD-check.yaml)
+[![Codecov test coverage](https://codecov.io/gh/r4ds/shinysocial/branch/main/graph/badge.svg)](https://app.codecov.io/gh/r4ds/shinysocial?branch=main)
 <!-- badges: end -->
 
 The goal of shinysocial is to ...
 
 ## Installation
 
-You can install the development version of shinysocial like so:
+You can install the development version of shinysocial from [GitHub](https://github.com/) with:
 
 ``` r
-# FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
+# install.packages("devtools")
+devtools::install_github("r4ds/shinysocial")
 ```
 
 ## Example
@@ -54,3 +57,7 @@ plot(pressure)
 ```
 
 In that case, don't forget to commit and push the resulting figure files, so they display on GitHub and CRAN.
+
+## Code of Conduct
+
+Please note that the shinysocial project is released with a [Contributor Code of Conduct](https://r4ds.github.io/shinysocial/CODE_OF_CONDUCT.html). By contributing to this project, you agree to abide by its terms.
