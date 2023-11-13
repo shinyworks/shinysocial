@@ -7,9 +7,9 @@ Authors@R:
 Description: Standardized, clean modules for collecting, displaying, and
     using social media information in 'shiny' apps.
 License: MIT + file LICENSE
-URL: https://github.com/r4ds/shinysocial,
-    https://r4ds.github.io/shinysocial/
-BugReports: https://github.com/r4ds/shinysocial/issues
+URL: https://shinyworks/shinysocial.github.io/shinysocial/,
+    https://github.com/shinyworks/shinysocial/shinysocial
+BugReports: https://github.com/shinyworks/shinysocial/shinysocial/issues
 Imports: 
     shiny,
     stringr
