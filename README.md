@@ -8,8 +8,8 @@
 [![Lifecycle:
 experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 [![Codecov test
-coverage](https://codecov.io/gh/r4ds/shinysocial/branch/main/graph/badge.svg)](https://app.codecov.io/gh/r4ds/shinysocial?branch=main)
-[![R-CMD-check](https://github.com/r4ds/shinysocial/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/r4ds/shinysocial/actions/workflows/R-CMD-check.yaml)
+coverage](https://codecov.io/gh/shinyworks/shinysocial/branch/main/graph/badge.svg)](https://app.codecov.io/gh/shinyworks/shinysocial?branch=main)
+[![R-CMD-check](https://github.com/shinyworks/shinysocial/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/shinyworks/shinysocial/actions/workflows/R-CMD-check.yaml)
 [![CRAN
 status](https://www.r-pkg.org/badges/version/shinysocial)](https://CRAN.R-project.org/package=shinysocial)
 <!-- badges: end -->
@@ -24,8 +24,8 @@ You can install the development version of shinysocial from
 [GitHub](https://github.com/) with:
 
 ``` r
-# install.packages("devtools")
-devtools::install_github("r4ds/shinysocial")
+# install.packages("pak")
+pak::pak("shinyworks/shinysocial")
 ```
 
 ## Examples
@@ -39,5 +39,5 @@ Cases”.
 
 Please note that the shinysocial project is released with a [Contributor
 Code of
-Conduct](https://r4ds.github.io/shinysocial/CODE_OF_CONDUCT.html). By
-contributing to this project, you agree to abide by its terms.
+Conduct](https://shinyworks.github.io/shinysocial/CODE_OF_CONDUCT.html).
+By contributing to this project, you agree to abide by its terms.
