@@ -1,5 +1,4 @@
-url: https://shinyworks.github.io/shinysocial/
+url: https://shinysocial.shinyworks.org/
 template:
   bootstrap: 5
   light-switch: true
-
