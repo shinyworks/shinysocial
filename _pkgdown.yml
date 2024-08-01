@@ -1,4 +1,5 @@
-url: https://r4ds.github.io/shinysocial/
+url: https://shinyworks.github.io/shinysocial/
 template:
   bootstrap: 5
+  light-switch: true
 
