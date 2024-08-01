@@ -1,36 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://r4ds.github.io/shinysocial/404.html</loc>
-  </url>
-  <url>
-    <loc>https://r4ds.github.io/shinysocial/CODE_OF_CONDUCT.html</loc>
-  </url>
-  <url>
-    <loc>https://r4ds.github.io/shinysocial/CONTRIBUTING.html</loc>
-  </url>
-  <url>
-    <loc>https://r4ds.github.io/shinysocial/LICENSE-text.html</loc>
-  </url>
-  <url>
-    <loc>https://r4ds.github.io/shinysocial/LICENSE.html</loc>
-  </url>
-  <url>
-    <loc>https://r4ds.github.io/shinysocial/SUPPORT.html</loc>
-  </url>
-  <url>
-    <loc>https://r4ds.github.io/shinysocial/authors.html</loc>
-  </url>
-  <url>
-    <loc>https://r4ds.github.io/shinysocial/index.html</loc>
-  </url>
-  <url>
-    <loc>https://r4ds.github.io/shinysocial/reference/dot-shared-parameters.html</loc>
-  </url>
-  <url>
-    <loc>https://r4ds.github.io/shinysocial/reference/index.html</loc>
-  </url>
-  <url>
-    <loc>https://r4ds.github.io/shinysocial/reference/social_contacts_ui.html</loc>
-  </url>
+<urlset xmlns = 'http://www.sitemaps.org/schemas/sitemap/0.9'>
+<url><loc>https://shinysocial.shinyworks.org/404.html</loc></url>
+<url><loc>https://shinysocial.shinyworks.org/CODE_OF_CONDUCT.html</loc></url>
+<url><loc>https://shinysocial.shinyworks.org/CONTRIBUTING.html</loc></url>
+<url><loc>https://shinysocial.shinyworks.org/LICENSE-text.html</loc></url>
+<url><loc>https://shinysocial.shinyworks.org/LICENSE.html</loc></url>
+<url><loc>https://shinysocial.shinyworks.org/SUPPORT.html</loc></url>
+<url><loc>https://shinysocial.shinyworks.org/authors.html</loc></url>
+<url><loc>https://shinysocial.shinyworks.org/index.html</loc></url>
+<url><loc>https://shinysocial.shinyworks.org/reference/dot-shared-parameters.html</loc></url>
+<url><loc>https://shinysocial.shinyworks.org/reference/index.html</loc></url>
+<url><loc>https://shinysocial.shinyworks.org/reference/social_contacts_ui.html</loc></url>
 </urlset>
+
